@@ -20,7 +20,7 @@ def local_css(file_name):
         st.markdown(f"<style>{ f.read()}</style>", unsafe_allow_html=True)
 
 #Front end CSS file
-local_css("../stylereport/style.css")
+local_css("/stylereport/style.css")
 
 st.title('8 Weeks Report Converter')
 st.subheader('Drop raw data below')
