@@ -46,8 +46,6 @@ huggingface-hub==0.14.1
 idna==3.3
 importlib-metadata==4.12.0
 ipykernel==6.13.1
-ipython==8.0.1
-ipython-genutils==0.2.0
 jedi==0.18.1
 Jinja2==3.0.3
 joblib==1.1.0
